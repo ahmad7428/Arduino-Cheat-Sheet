@@ -151,7 +151,7 @@ int my_Array[] = {0,1,2,3,4,5,6,7,8,9}
 my_Array[2] = 23; // declares value of the third element to 23
 x = my_Array[5] // using a value from array. x is now equal to 6
 ```
-## Opening the Serial Port on Arduino
+## Opening a Serial Port on Arduino
 ```
 void setup(){
 	Serial.begin(9600);
