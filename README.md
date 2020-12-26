@@ -1,6 +1,6 @@
-# Arduino Cheat Sheet
-##### - github.com/ahmad7428
------
+## Arduino Cheat Sheet
+##### github.com/ahmad7428
+
 ## Comments
 ```
 // This is a single line comment
